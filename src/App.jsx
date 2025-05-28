@@ -24,7 +24,7 @@ import VehicleForm from "./pages/VehicleForm.jsx";
 import CustomerDashboard from "./components/customer/CustomerDashboard";
 import SingleVehiclePage from "./components/customer/SingleVehiclePage";
 import ManageVehiclePage from "./components/customer/ManageVehiclePage.jsx";
-import QRCodePage from "./components/customer/QrCodePage.jsx";
+import QRCodePage from "./components/customer/QRCodePage.jsx";
 
 // Admin Dashboard
 import AdminDashboard from "./components/admin/AdminDashboard";
